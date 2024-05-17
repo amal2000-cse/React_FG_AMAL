@@ -47,7 +47,7 @@ After installing the dependencies, you can start the development server:
 1. **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 2. **Open your browser and navigate to:**
